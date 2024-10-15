@@ -1,6 +1,6 @@
 ## CCM IT Department Survey Analysis
 
-**Author:** Brayden Uglione
+**Author:** Brayden Uglione  
 **Date:** 10/15/24
 
 ## Table of Contents
